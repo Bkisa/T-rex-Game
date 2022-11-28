@@ -1,4 +1,4 @@
--- author: Furkan Cayci, 2018
+-- author: Buğrahan KISA, 2018
 -- description: serializer for for 10-bit tmds signal
 
 library ieee;
