@@ -1,4 +1,4 @@
--- author: Furkan Cayci, 2018
+-- author: Buğrahan KISA, 2018
 -- description: video timing generator
 --      choose between hd720p, svga, and vga
 
